@@ -1,0 +1,4 @@
+hyyy there..this is change made in file2
+
+1st modification to file2 and 
+deleting file 3 after 1st commit
